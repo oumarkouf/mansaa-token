@@ -1,8 +1,6 @@
-[
-  {
+{
     "id": 0,
     "description": "First NFT",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
     "name": "Oumar's NFT"
-  }
-]
+}
